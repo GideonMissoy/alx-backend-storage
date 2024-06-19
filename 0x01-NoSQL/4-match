@@ -1,0 +1,2 @@
+// list all with hob
+db.school.find({ name: "Holberton school" })

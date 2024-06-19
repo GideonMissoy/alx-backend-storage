@@ -1,0 +1,4 @@
+// Delete all with Hob
+db.school.deleteMany(
+    { name: "Holberton school" }
+)
